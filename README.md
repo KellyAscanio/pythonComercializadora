@@ -1,5 +1,5 @@
 # pythonComercializadora
-Kelly Johana Ascanio 
+Kelly Johana Ascanio Rodriguex
 
 ADSO 2470980
 
