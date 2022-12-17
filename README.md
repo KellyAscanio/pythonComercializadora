@@ -5,6 +5,19 @@ ADSO 2470980
 
 CBA Mosquera
 
+Este proyecto desarrolla las siguientes APIS :
+
+-CafeteriaApiView:Esta API nos trae en una lista los datos que digitamos en la base de datos sql lite
+
+-CafeteriaDetailApiView:Esta API nos trae el método get el cual nos trae las motos, método put el cual nos deja crear una nueva moto o editar, método delete el cual nos deja eliminar una moto.
+
+-CafeteriaClasificacionApiView: Esta api es la que nos permite ver los productos por clasificación.
+
+Para iniciar el proyecto debes tener instalado python, django, visual studio code luego entrar a la carpeta app_comercializadora y poner CMD en la url luego deber poner la siguiente linea ..\scripts\activate para activar el ambiente luego instalarás los requerimientos o librerias con la siguiente linea pip install -r requirements.txt el paso siguiente debes dar python manage.py runserver en el CMD te dara un link y tendras la siguiente vista
+
+![image](https://user-images.githubusercontent.com/101758695/208263033-6d878613-525f-4086-b395-f0f7b92ead15.png)
+
+Luego ingresamos con /api/
 
 Vista principal.
 ![image](https://user-images.githubusercontent.com/101758695/208255294-1fc9e704-def1-425f-9712-81c806a97db7.png)
