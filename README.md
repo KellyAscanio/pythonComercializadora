@@ -1,7 +1,9 @@
 # pythonComercializadora
-#Kelly Johana Ascanio 
-#ADSO 2470980
-#CBA Mosquera
+Kelly Johana Ascanio 
+
+ADSO 2470980
+
+CBA Mosquera
 
 
 Vista principal.
